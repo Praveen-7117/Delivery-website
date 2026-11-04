@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Double Chicken Burger",
+        "price": "$200",
+        "image": "images/image2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Veggie Pizza",
+        "price": "$180",
+        "image": "images/image11.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken",
+        "price": "$220",
+        "image": "images/image8.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Lasanga",
+        "price": "$160",
+        "image": "images/image9.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chicken Roll",
+        "price": "$130",
+        "image": "images/image3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sandwich",
+        "price": "$80",
+        "image": "images/image15.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Itallian Spaghetti",
+        "price": "$70",
+        "image": "images/image16.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Spring Roll",
+        "price": "$60",
+        "image": "images/image17.jpg"
+    }
+]
